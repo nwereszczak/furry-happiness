@@ -12,6 +12,8 @@ screen
 reflector
 grub
 vim
+net-tools
+openssh
 
 ## Notes
 Currently there are NO options to pass to the script.

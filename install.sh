@@ -112,7 +112,7 @@ echo
 
 # Install the base packages
 echo "Install the base packages + others"
-pacstrap /mnt base base-devel nmap htop screen reflector grub vim
+pacstrap /mnt base base-devel nmap htop screen reflector grub vim net-tools openssh
 
 # Fstab
 genfstab -U /mnt >> /mnt/etc/fstab
