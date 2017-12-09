@@ -15,4 +15,4 @@ Allow added options to change defaults
 - Wifi UUID and password to use
 
 ## Long term
-
+Test with mirroring from private gitlab.
